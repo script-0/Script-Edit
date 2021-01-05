@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1572062416 source:e:\academie\personal_documents\codes\apiwin32\test\script1\capture.c
+	<tchar.h>
+	<stdio.h>
+	<windows.h>
+	<commctrl.h>
+	<commdlg.h>
+
+1579615232 source:e:\academie\personal_documents\codes\apiwin32\test\script1\main.cpp
+	<tchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<commctrl.h>
+	<dbt.h>
+	<commdlg.h>
+	<math.h>
+	<richedit.h>
+	<shellapi.h>
+	"coordonnees.h"
+	"resource.h"
+	"initial.h"
+	"capture.c"
+	"prototypes.h"
+	"color.h"
+	"fonctions1.c"
+	"set_hyperlink.c"
+
+1578504039 e:\academie\personal_documents\codes\apiwin32\test\script1\coordonnees.h
+
+1579614645 e:\academie\personal_documents\codes\apiwin32\test\script1\resource.h
+
+1572062416 e:\academie\personal_documents\codes\apiwin32\test\script1\capture.c
+	<tchar.h>
+	<stdio.h>
+	<windows.h>
+	<commctrl.h>
+	<commdlg.h>
+
+1571594202 e:\academie\personal_documents\codes\apiwin32\test\script1\prototypes.h
+
+1579365270 e:\academie\personal_documents\codes\apiwin32\test\script1\initial.h
+	"resource.h"
+	"coordonnees.h"
+
+1571594304 e:\academie\personal_documents\codes\apiwin32\test\script1\color.h
+	<windows.h>
+
+1578504565 e:\academie\personal_documents\codes\apiwin32\test\script1\fonctions1.c
+	<string.h>
+
+1571594434 e:\academie\personal_documents\codes\apiwin32\test\script1\set_hyperlink.c
+	<windows.h>
+	<shellapi.h>
+	<stdlib.h>
+
+1579614975 source:e:\academie\personal_documents\codes\apiwin32\test\script1\resource.rc
+	<windows.h>
+	"Resource.h"
+	"coordonnees.h"
+
+1571594434 source:e:\academie\personal_documents\codes\apiwin32\test\script1\set_hyperlink.c
+	<windows.h>
+	<shellapi.h>
+	<stdlib.h>
+
