@@ -1635,11 +1635,12 @@ LRESULT CALLBACK edit_control_proc (HWND hwnd, UINT message, WPARAM wParam, LPAR
                             else if(text[a]=='}')nb_tab++;
                         }
                         else{
-                                char buf[120];
+                              /*char buf[120];
                                 sprintf(buf,"Error detected on \" edit_control_proc()>WM_LBUTTONDOWN\" \n Prevouis index=%d Current index=%d,position=%d taille=%d character_copied =%d", prv_line_index,line_index,position,taille,character_copied);
                                 showMessageError(hwnd,buf);
                                 report_error(hwnd,0,0,"Error detected on \" edit_control_proc()>WM_LBUTTONDOWN\"");
                                 SetFocus(hwnd);
+                                */
                             }
                 LocalFree(text);
             }
